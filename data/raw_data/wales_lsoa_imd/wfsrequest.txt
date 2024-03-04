@@ -1,0 +1,1 @@
+https://datamap.gov.wales/geoserver/wfs?version=1.0.0&request=GetFeature&typeName=inspire-wg:wimd2019_overall&outputFormat=SHAPE-ZIP
