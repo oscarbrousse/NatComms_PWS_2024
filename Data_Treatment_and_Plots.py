@@ -82,6 +82,7 @@ cws_loc = [(x,y) for x,y in zip(cws_gdf.geometry.x , cws_gdf.geometry.y)]
 ### Open list of MIDAS locations to compare official AWS locations to CWS
 ### One needs to download the CPAS.DATA file from the CEDA archive: https://data.ceda.ac.uk/badc/ukmo-midas/metadata/CPAS
 ### See https://help.ceda.ac.uk/article/280-ftp for more information on how to access the data via FTP
+### Another option would be to link the SRCC.DATA file to the SRCE.DATA
 
 midas_dir = datadir + 'MIDAS/'
 ### Valid ID Type (see CEDA doc)
